@@ -1,0 +1,10 @@
+Algebra, Develops algebraic concepts and skills needed to graph and solve linear equations and inequalities.
+Geometry, Presents the study of several geometries, including synthetic and metric Euclidean, non-Euclidean, projective, and finite geometries.
+Geography, An introduction to the earth’s major natural environmental systems, their spatial distribution and interrelationships, including weather and climate, vegetation and ecosystems, soils, landforms, and earth-surface processes.
+Computer Science, Includes topics web application development, mobile application development, 3D game programming, virtual reality, machine learning, and robotics.
+Environmental Science, explore solutions to environmental problems through courses in the biological, chemical, geological, and social sciences.
+Biology, The program is a strong foundation for a wide range of careers, from exploring the great outdoors to the intricacies of cells and molecules.
+Chemistry, Collaborative faculty and an interdisciplinary curriculum cover the five key areas of chemistry: physical, analytical, inorganic, organic, and biochemistry.
+Communication Studies, Provides you with a thorough understanding of the communication processes used in contemporary society as well as an appreciation for the historical, technological, literary, and dramatic heritage of communication.
+Economics, Provides some insight into world’s most pressing questions, from ending global poverty to studying the impact of technology to how to improve the environment.
+History, It will ground you in content knowledge of the past that provides perspective and context necessary for understanding our world today.
